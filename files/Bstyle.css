@@ -15,7 +15,7 @@
     background: black;
 }
 body{
-    background: url(back2.jpg);
+    background: url(../img/back2.jpg);
     background-size: cover;
     overflow: hidden;
 }
